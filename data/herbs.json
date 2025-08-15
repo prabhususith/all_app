@@ -127,6 +127,3032 @@
         "dandruff",
         "oral"
       ]
+    },
+    {
+      "id": "ginger",
+      "name": {
+        "en": "Ginger",
+        "ta": "இஞ்சி"
+      },
+      "aliases": [
+        "zingiber officinale"
+      ],
+      "benefits": {
+        "en": "Aids digestion; reduces nausea; anti-inflammatory.",
+        "ta": "செரிமானத்திற்கு உதவும்; வாந்தி குறைக்கும்; அரிப்பு குறைக்கும்."
+      },
+      "uses": {
+        "en": "Indigestion, nausea, cold.",
+        "ta": "செரிமானக் குறைபாடு, வாந்தி, ஜலதோஷம்."
+      },
+      "preparation": {
+        "en": "Boil sliced ginger in water; drink warm.",
+        "ta": "இஞ்சி துண்டுகளை நீரில் காய்ச்சி சூடாக குடிக்கவும்."
+      },
+      "precautions": {
+        "en": "Avoid excess if prone to heartburn.",
+        "ta": "வயிறு எரிச்சல் உள்ளவர்கள் அதிகமாக தவிர்க்கவும்."
+      },
+      "symptoms": [
+        "indigestion",
+        "nausea",
+        "cold"
+      ]
+    },
+    {
+      "id": "aloevera",
+      "name": {
+        "en": "Aloe Vera",
+        "ta": "கற்றாழை"
+      },
+      "aliases": [
+        "aloe barbadensis miller"
+      ],
+      "benefits": {
+        "en": "Soothes skin; aids digestion; promotes healing.",
+        "ta": "தோலை நன்றாக்கும்; செரிமானத்திற்கு உதவும்; குணமடையச் செய்கிறது."
+      },
+      "uses": {
+        "en": "Burns, constipation, skin care.",
+        "ta": "எரிப்பு, மலச்சிக்கல், தோல் பராமரிப்பு."
+      },
+      "preparation": {
+        "en": "Use gel externally; juice in moderation.",
+        "ta": "ஜெல்லை வெளியில் தடவவும்; சாறு அளவாக குடிக்கவும்."
+      },
+      "precautions": {
+        "en": "Avoid raw latex internally; may cause cramps.",
+        "ta": "காய்ந்த சாறு உள்வாங்க வேண்டாம்; வயிற்று வலி உண்டாக்கலாம்."
+      },
+      "symptoms": [
+        "burns",
+        "constipation",
+        "skin"
+      ]
+    },
+    {
+      "id": "herb_7",
+      "name": {
+        "en": "Herb 7",
+        "ta": "மூலிகை 7"
+      },
+      "aliases": [
+        "herbus 7"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_8",
+      "name": {
+        "en": "Herb 8",
+        "ta": "மூலிகை 8"
+      },
+      "aliases": [
+        "herbus 8"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_9",
+      "name": {
+        "en": "Herb 9",
+        "ta": "மூலிகை 9"
+      },
+      "aliases": [
+        "herbus 9"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_10",
+      "name": {
+        "en": "Herb 10",
+        "ta": "மூலிகை 10"
+      },
+      "aliases": [
+        "herbus 10"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_11",
+      "name": {
+        "en": "Herb 11",
+        "ta": "மூலிகை 11"
+      },
+      "aliases": [
+        "herbus 11"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_12",
+      "name": {
+        "en": "Herb 12",
+        "ta": "மூலிகை 12"
+      },
+      "aliases": [
+        "herbus 12"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_13",
+      "name": {
+        "en": "Herb 13",
+        "ta": "மூலிகை 13"
+      },
+      "aliases": [
+        "herbus 13"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_14",
+      "name": {
+        "en": "Herb 14",
+        "ta": "மூலிகை 14"
+      },
+      "aliases": [
+        "herbus 14"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_15",
+      "name": {
+        "en": "Herb 15",
+        "ta": "மூலிகை 15"
+      },
+      "aliases": [
+        "herbus 15"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_16",
+      "name": {
+        "en": "Herb 16",
+        "ta": "மூலிகை 16"
+      },
+      "aliases": [
+        "herbus 16"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_17",
+      "name": {
+        "en": "Herb 17",
+        "ta": "மூலிகை 17"
+      },
+      "aliases": [
+        "herbus 17"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_18",
+      "name": {
+        "en": "Herb 18",
+        "ta": "மூலிகை 18"
+      },
+      "aliases": [
+        "herbus 18"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_19",
+      "name": {
+        "en": "Herb 19",
+        "ta": "மூலிகை 19"
+      },
+      "aliases": [
+        "herbus 19"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_20",
+      "name": {
+        "en": "Herb 20",
+        "ta": "மூலிகை 20"
+      },
+      "aliases": [
+        "herbus 20"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_21",
+      "name": {
+        "en": "Herb 21",
+        "ta": "மூலிகை 21"
+      },
+      "aliases": [
+        "herbus 21"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_22",
+      "name": {
+        "en": "Herb 22",
+        "ta": "மூலிகை 22"
+      },
+      "aliases": [
+        "herbus 22"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_23",
+      "name": {
+        "en": "Herb 23",
+        "ta": "மூலிகை 23"
+      },
+      "aliases": [
+        "herbus 23"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_24",
+      "name": {
+        "en": "Herb 24",
+        "ta": "மூலிகை 24"
+      },
+      "aliases": [
+        "herbus 24"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_25",
+      "name": {
+        "en": "Herb 25",
+        "ta": "மூலிகை 25"
+      },
+      "aliases": [
+        "herbus 25"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_26",
+      "name": {
+        "en": "Herb 26",
+        "ta": "மூலிகை 26"
+      },
+      "aliases": [
+        "herbus 26"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_27",
+      "name": {
+        "en": "Herb 27",
+        "ta": "மூலிகை 27"
+      },
+      "aliases": [
+        "herbus 27"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_28",
+      "name": {
+        "en": "Herb 28",
+        "ta": "மூலிகை 28"
+      },
+      "aliases": [
+        "herbus 28"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_29",
+      "name": {
+        "en": "Herb 29",
+        "ta": "மூலிகை 29"
+      },
+      "aliases": [
+        "herbus 29"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_30",
+      "name": {
+        "en": "Herb 30",
+        "ta": "மூலிகை 30"
+      },
+      "aliases": [
+        "herbus 30"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_31",
+      "name": {
+        "en": "Herb 31",
+        "ta": "மூலிகை 31"
+      },
+      "aliases": [
+        "herbus 31"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_32",
+      "name": {
+        "en": "Herb 32",
+        "ta": "மூலிகை 32"
+      },
+      "aliases": [
+        "herbus 32"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_33",
+      "name": {
+        "en": "Herb 33",
+        "ta": "மூலிகை 33"
+      },
+      "aliases": [
+        "herbus 33"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_34",
+      "name": {
+        "en": "Herb 34",
+        "ta": "மூலிகை 34"
+      },
+      "aliases": [
+        "herbus 34"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_35",
+      "name": {
+        "en": "Herb 35",
+        "ta": "மூலிகை 35"
+      },
+      "aliases": [
+        "herbus 35"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_36",
+      "name": {
+        "en": "Herb 36",
+        "ta": "மூலிகை 36"
+      },
+      "aliases": [
+        "herbus 36"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_37",
+      "name": {
+        "en": "Herb 37",
+        "ta": "மூலிகை 37"
+      },
+      "aliases": [
+        "herbus 37"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_38",
+      "name": {
+        "en": "Herb 38",
+        "ta": "மூலிகை 38"
+      },
+      "aliases": [
+        "herbus 38"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_39",
+      "name": {
+        "en": "Herb 39",
+        "ta": "மூலிகை 39"
+      },
+      "aliases": [
+        "herbus 39"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_40",
+      "name": {
+        "en": "Herb 40",
+        "ta": "மூலிகை 40"
+      },
+      "aliases": [
+        "herbus 40"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_41",
+      "name": {
+        "en": "Herb 41",
+        "ta": "மூலிகை 41"
+      },
+      "aliases": [
+        "herbus 41"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_42",
+      "name": {
+        "en": "Herb 42",
+        "ta": "மூலிகை 42"
+      },
+      "aliases": [
+        "herbus 42"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_43",
+      "name": {
+        "en": "Herb 43",
+        "ta": "மூலிகை 43"
+      },
+      "aliases": [
+        "herbus 43"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_44",
+      "name": {
+        "en": "Herb 44",
+        "ta": "மூலிகை 44"
+      },
+      "aliases": [
+        "herbus 44"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_45",
+      "name": {
+        "en": "Herb 45",
+        "ta": "மூலிகை 45"
+      },
+      "aliases": [
+        "herbus 45"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_46",
+      "name": {
+        "en": "Herb 46",
+        "ta": "மூலிகை 46"
+      },
+      "aliases": [
+        "herbus 46"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_47",
+      "name": {
+        "en": "Herb 47",
+        "ta": "மூலிகை 47"
+      },
+      "aliases": [
+        "herbus 47"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_48",
+      "name": {
+        "en": "Herb 48",
+        "ta": "மூலிகை 48"
+      },
+      "aliases": [
+        "herbus 48"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_49",
+      "name": {
+        "en": "Herb 49",
+        "ta": "மூலிகை 49"
+      },
+      "aliases": [
+        "herbus 49"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_50",
+      "name": {
+        "en": "Herb 50",
+        "ta": "மூலிகை 50"
+      },
+      "aliases": [
+        "herbus 50"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_51",
+      "name": {
+        "en": "Herb 51",
+        "ta": "மூலிகை 51"
+      },
+      "aliases": [
+        "herbus 51"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_52",
+      "name": {
+        "en": "Herb 52",
+        "ta": "மூலிகை 52"
+      },
+      "aliases": [
+        "herbus 52"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_53",
+      "name": {
+        "en": "Herb 53",
+        "ta": "மூலிகை 53"
+      },
+      "aliases": [
+        "herbus 53"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_54",
+      "name": {
+        "en": "Herb 54",
+        "ta": "மூலிகை 54"
+      },
+      "aliases": [
+        "herbus 54"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_55",
+      "name": {
+        "en": "Herb 55",
+        "ta": "மூலிகை 55"
+      },
+      "aliases": [
+        "herbus 55"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_56",
+      "name": {
+        "en": "Herb 56",
+        "ta": "மூலிகை 56"
+      },
+      "aliases": [
+        "herbus 56"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_57",
+      "name": {
+        "en": "Herb 57",
+        "ta": "மூலிகை 57"
+      },
+      "aliases": [
+        "herbus 57"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_58",
+      "name": {
+        "en": "Herb 58",
+        "ta": "மூலிகை 58"
+      },
+      "aliases": [
+        "herbus 58"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_59",
+      "name": {
+        "en": "Herb 59",
+        "ta": "மூலிகை 59"
+      },
+      "aliases": [
+        "herbus 59"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_60",
+      "name": {
+        "en": "Herb 60",
+        "ta": "மூலிகை 60"
+      },
+      "aliases": [
+        "herbus 60"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_61",
+      "name": {
+        "en": "Herb 61",
+        "ta": "மூலிகை 61"
+      },
+      "aliases": [
+        "herbus 61"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_62",
+      "name": {
+        "en": "Herb 62",
+        "ta": "மூலிகை 62"
+      },
+      "aliases": [
+        "herbus 62"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_63",
+      "name": {
+        "en": "Herb 63",
+        "ta": "மூலிகை 63"
+      },
+      "aliases": [
+        "herbus 63"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_64",
+      "name": {
+        "en": "Herb 64",
+        "ta": "மூலிகை 64"
+      },
+      "aliases": [
+        "herbus 64"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_65",
+      "name": {
+        "en": "Herb 65",
+        "ta": "மூலிகை 65"
+      },
+      "aliases": [
+        "herbus 65"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_66",
+      "name": {
+        "en": "Herb 66",
+        "ta": "மூலிகை 66"
+      },
+      "aliases": [
+        "herbus 66"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_67",
+      "name": {
+        "en": "Herb 67",
+        "ta": "மூலிகை 67"
+      },
+      "aliases": [
+        "herbus 67"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_68",
+      "name": {
+        "en": "Herb 68",
+        "ta": "மூலிகை 68"
+      },
+      "aliases": [
+        "herbus 68"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_69",
+      "name": {
+        "en": "Herb 69",
+        "ta": "மூலிகை 69"
+      },
+      "aliases": [
+        "herbus 69"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_70",
+      "name": {
+        "en": "Herb 70",
+        "ta": "மூலிகை 70"
+      },
+      "aliases": [
+        "herbus 70"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_71",
+      "name": {
+        "en": "Herb 71",
+        "ta": "மூலிகை 71"
+      },
+      "aliases": [
+        "herbus 71"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_72",
+      "name": {
+        "en": "Herb 72",
+        "ta": "மூலிகை 72"
+      },
+      "aliases": [
+        "herbus 72"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_73",
+      "name": {
+        "en": "Herb 73",
+        "ta": "மூலிகை 73"
+      },
+      "aliases": [
+        "herbus 73"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_74",
+      "name": {
+        "en": "Herb 74",
+        "ta": "மூலிகை 74"
+      },
+      "aliases": [
+        "herbus 74"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_75",
+      "name": {
+        "en": "Herb 75",
+        "ta": "மூலிகை 75"
+      },
+      "aliases": [
+        "herbus 75"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_76",
+      "name": {
+        "en": "Herb 76",
+        "ta": "மூலிகை 76"
+      },
+      "aliases": [
+        "herbus 76"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_77",
+      "name": {
+        "en": "Herb 77",
+        "ta": "மூலிகை 77"
+      },
+      "aliases": [
+        "herbus 77"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_78",
+      "name": {
+        "en": "Herb 78",
+        "ta": "மூலிகை 78"
+      },
+      "aliases": [
+        "herbus 78"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_79",
+      "name": {
+        "en": "Herb 79",
+        "ta": "மூலிகை 79"
+      },
+      "aliases": [
+        "herbus 79"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_80",
+      "name": {
+        "en": "Herb 80",
+        "ta": "மூலிகை 80"
+      },
+      "aliases": [
+        "herbus 80"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_81",
+      "name": {
+        "en": "Herb 81",
+        "ta": "மூலிகை 81"
+      },
+      "aliases": [
+        "herbus 81"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_82",
+      "name": {
+        "en": "Herb 82",
+        "ta": "மூலிகை 82"
+      },
+      "aliases": [
+        "herbus 82"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_83",
+      "name": {
+        "en": "Herb 83",
+        "ta": "மூலிகை 83"
+      },
+      "aliases": [
+        "herbus 83"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_84",
+      "name": {
+        "en": "Herb 84",
+        "ta": "மூலிகை 84"
+      },
+      "aliases": [
+        "herbus 84"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_85",
+      "name": {
+        "en": "Herb 85",
+        "ta": "மூலிகை 85"
+      },
+      "aliases": [
+        "herbus 85"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_86",
+      "name": {
+        "en": "Herb 86",
+        "ta": "மூலிகை 86"
+      },
+      "aliases": [
+        "herbus 86"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_87",
+      "name": {
+        "en": "Herb 87",
+        "ta": "மூலிகை 87"
+      },
+      "aliases": [
+        "herbus 87"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_88",
+      "name": {
+        "en": "Herb 88",
+        "ta": "மூலிகை 88"
+      },
+      "aliases": [
+        "herbus 88"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_89",
+      "name": {
+        "en": "Herb 89",
+        "ta": "மூலிகை 89"
+      },
+      "aliases": [
+        "herbus 89"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_90",
+      "name": {
+        "en": "Herb 90",
+        "ta": "மூலிகை 90"
+      },
+      "aliases": [
+        "herbus 90"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_91",
+      "name": {
+        "en": "Herb 91",
+        "ta": "மூலிகை 91"
+      },
+      "aliases": [
+        "herbus 91"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_92",
+      "name": {
+        "en": "Herb 92",
+        "ta": "மூலிகை 92"
+      },
+      "aliases": [
+        "herbus 92"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_93",
+      "name": {
+        "en": "Herb 93",
+        "ta": "மூலிகை 93"
+      },
+      "aliases": [
+        "herbus 93"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_94",
+      "name": {
+        "en": "Herb 94",
+        "ta": "மூலிகை 94"
+      },
+      "aliases": [
+        "herbus 94"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_95",
+      "name": {
+        "en": "Herb 95",
+        "ta": "மூலிகை 95"
+      },
+      "aliases": [
+        "herbus 95"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_96",
+      "name": {
+        "en": "Herb 96",
+        "ta": "மூலிகை 96"
+      },
+      "aliases": [
+        "herbus 96"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_97",
+      "name": {
+        "en": "Herb 97",
+        "ta": "மூலிகை 97"
+      },
+      "aliases": [
+        "herbus 97"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_98",
+      "name": {
+        "en": "Herb 98",
+        "ta": "மூலிகை 98"
+      },
+      "aliases": [
+        "herbus 98"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_99",
+      "name": {
+        "en": "Herb 99",
+        "ta": "மூலிகை 99"
+      },
+      "aliases": [
+        "herbus 99"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_100",
+      "name": {
+        "en": "Herb 100",
+        "ta": "மூலிகை 100"
+      },
+      "aliases": [
+        "herbus 100"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_101",
+      "name": {
+        "en": "Herb 101",
+        "ta": "மூலிகை 101"
+      },
+      "aliases": [
+        "herbus 101"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_102",
+      "name": {
+        "en": "Herb 102",
+        "ta": "மூலிகை 102"
+      },
+      "aliases": [
+        "herbus 102"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_103",
+      "name": {
+        "en": "Herb 103",
+        "ta": "மூலிகை 103"
+      },
+      "aliases": [
+        "herbus 103"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_104",
+      "name": {
+        "en": "Herb 104",
+        "ta": "மூலிகை 104"
+      },
+      "aliases": [
+        "herbus 104"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "herb_105",
+      "name": {
+        "en": "Herb 105",
+        "ta": "மூலிகை 105"
+      },
+      "aliases": [
+        "herbus 105"
+      ],
+      "benefits": {
+        "en": "General wellness support.",
+        "ta": "பொதுவான ஆரோக்கிய உதவி."
+      },
+      "uses": {
+        "en": "Various minor ailments.",
+        "ta": "சிறிய நோய்களுக்கு உதவும்."
+      },
+      "preparation": {
+        "en": "Prepare as infusion or decoction.",
+        "ta": "கஷாயம் அல்லது ஊறுகூழாக தயார் செய்யவும்."
+      },
+      "precautions": {
+        "en": "Consult before use.",
+        "ta": "பயன்படுத்தும் முன் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "general"
+      ]
+    },
+    {
+      "id": "chinese_ginseng",
+      "name": {
+        "en": "Chinese Ginseng",
+        "ta": "சீன ஜின்செங்"
+      },
+      "aliases": [
+        "panax ginseng"
+      ],
+      "benefits": {
+        "en": "Boosts energy; improves mental clarity; supports immunity.",
+        "ta": "ஆற்றலை அதிகரிக்கும்; மன தெளிவை மேம்படுத்தும்; நோய் எதிர்ப்பு சக்தியை ஆதரிக்கும்."
+      },
+      "uses": {
+        "en": "Fatigue, low immunity, focus improvement.",
+        "ta": "சோர்வு, குறைந்த நோய் எதிர்ப்பு, கவனத்தை மேம்படுத்த."
+      },
+      "preparation": {
+        "en": "Steep sliced root in hot water for tea.",
+        "ta": "வேர் துண்டுகளை சூடான நீரில் ஊறவைத்து குடிக்கவும்."
+      },
+      "precautions": {
+        "en": "Avoid high doses in hypertension.",
+        "ta": "உயர் இரத்த அழுத்தம் உள்ளவர்கள் அதிகமாக தவிர்க்கவும்."
+      },
+      "symptoms": [
+        "fatigue",
+        "low immunity",
+        "focus"
+      ]
+    },
+    {
+      "id": "chinese_astragalus",
+      "name": {
+        "en": "Chinese Astragalus",
+        "ta": "சீன அஸ்ட்ராகலஸ்"
+      },
+      "aliases": [
+        "astragalus membranaceus"
+      ],
+      "benefits": {
+        "en": "Supports immune system; anti-aging; boosts stamina.",
+        "ta": "நோய் எதிர்ப்பு சக்தியை ஆதரிக்கும்; வயதானதை தாமதமாக்கும்; சக்தியை அதிகரிக்கும்."
+      },
+      "uses": {
+        "en": "Fatigue, colds, recovery support.",
+        "ta": "சோர்வு, ஜலதோஷம், உடல் மீட்பு."
+      },
+      "preparation": {
+        "en": "Boil root slices in soup or tea.",
+        "ta": "வேர் துண்டுகளை சூப் அல்லது தேயிலில் காய்ச்சி குடிக்கவும்."
+      },
+      "precautions": {
+        "en": "Consult doctor if on immune-suppressant drugs.",
+        "ta": "நோய் எதிர்ப்பு சக்தி குறைக்கும் மருந்து எடுத்தால் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "fatigue",
+        "cold",
+        "recovery"
+      ]
+    },
+    {
+      "id": "chinese_goji",
+      "name": {
+        "en": "Chinese Goji Berry",
+        "ta": "சீன கோஜி பழம்"
+      },
+      "aliases": [
+        "lycium barbarum"
+      ],
+      "benefits": {
+        "en": "Rich in antioxidants; supports vision; boosts energy.",
+        "ta": "அந்தி-ஆக்ஸிடென்ட்களில் வளம்; பார்வைக்கு உதவும்; ஆற்றலை அதிகரிக்கும்."
+      },
+      "uses": {
+        "en": "Eye health, fatigue, immune support.",
+        "ta": "கண் ஆரோக்கியம், சோர்வு, நோய் எதிர்ப்பு."
+      },
+      "preparation": {
+        "en": "Eat dried berries or brew in tea.",
+        "ta": "உலர்ந்த பழங்களை சாப்பிடவும் அல்லது தேயிலில் ஊறவைத்து குடிக்கவும்."
+      },
+      "precautions": {
+        "en": "May interact with blood thinners.",
+        "ta": "இரத்தம் பதப்படுத்தும் மருந்துகளுடன் தொடர்பு இருக்கலாம்."
+      },
+      "symptoms": [
+        "eye health",
+        "fatigue",
+        "immunity"
+      ]
     }
   ]
 }
