@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Galaxy Offline Suite</title>
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#141827">
+  <link rel="icon" href="assets/icon-192.png">
+  <link rel="apple-touch-icon" href="assets/icon-192.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <img src="assets/icon-192.png" alt="" width="28" height="28" style="border-radius:6px">
+    <h1 class="t-welcome">Welcome</h1>
+  </header>
+
+  <nav>
+    <button data-tab="home" class="active">Home</button>
+    <button id="tab-settings" data-tab="settings">Settings</button>
+    <button id="tab-utilities" data-tab="utilities">Utilities</button>
+    <button id="tab-media" data-tab="media">Media</button>
+    <button id="tab-games" data-tab="games">Games</button>
+    <button id="tab-kids" data-tab="kids">Kids</button>
+    <button id="tab-rates" data-tab="rates">Rates</button>
+    <button id="tab-bot" data-tab="bot">Assistant</button>
+  </nav>
+
+  <main>
+    <section id="home" class="card">
+      <h2>Galaxy Offline Suite</h2>
+      <div class="kpi">
+        <span class="pill">Offline Ready</span>
+        <span class="pill">Touch & Vibration</span>
+        <span class="pill">No CDNs</span>
+        <span class="pill">Tamil / English</span>
+      </div>
+      <p class="t-welcome" style="margin-top:8px">Welcome</p>
+      <progress max="100" value="75"></progress>
+    </section>
+
+    <section id="settings" class="card hidden">
+      <h2>Settings</h2>
+      <div class="row">
+        <label>Language
+          <select id="lang">
+            <option value="en">English</option>
+            <option value="ta">தமிழ்</option>
+          </select>
+        </label>
+        <label>Country
+          <select id="country">
+            <option value="IN">India</option>
+            <option value="US">United States</option>
+          </select>
+        </label>
+        <label>Currency
+          <select id="currency">
+            <option value="INR">INR</option>
+            <option value="USD">USD</option>
+          </select>
+        </label>
+      </div>
+      <button id="saveSettings">Save</button>
+      <div style="margin-top:10px">
+        <button id="buzz">Vibrate & Beep Test</button>
+      </div>
+    </section>
+
+    <section id="utilities" class="card hidden">
+      <h2>Utilities</h2>
+      <div class="row">
+        <div class="card" style="flex:1;min-width:240px">
+          <h3>Stopwatch</h3>
+          <div id="swOut" data-ms="0" style="font-size:28px;margin:8px 0">0:00</div>
+          <div class="row">
+            <button id="swStart">Start</button>
+            <button id="swStop">Stop</button>
+            <button id="swReset">Reset</button>
+          </div>
+        </div>
+        <div class="card" style="flex:1;min-width:240px">
+          <h3>Timer</h3>
+          <input id="tmInput" type="number" placeholder="Seconds" value="10">
+          <div id="tmOut" style="font-size:28px;margin:8px 0">--</div>
+          <div class="row">
+            <button id="tmStart">Start</button>
+            <button id="tmStop">Stop</button>
+          </div>
+        </div>
+        <div class="card" style="flex:1;min-width:240px">
+          <h3>Offline Notes</h3>
+          <textarea id="notes" rows="6" placeholder="Write notes..."></textarea>
+        </div>
+      </div>
+    </section>
+
+    <section id="media" class="card hidden">
+      <h2>Media Player (Local)</h2>
+      <input id="mediaFile" type="file" accept="audio/*,video/*">
+      <video id="video" controls style="width:100%;max-height:360px;margin-top:8px"></video>
+    </section>
+
+    <section id="games" class="card hidden">
+      <h2>Snake (Offline)</h2>
+      <canvas id="snake" width="320" height="320"></canvas>
+      <p style="color:#98a2c3">Touch inside canvas to change direction. Works offline.</p>
+    </section>
+
+    <section id="kids" class="card hidden">
+      <h2>Kids</h2>
+      <p>Story & toddler activities (placeholder). i18n-enabled.</p>
+    </section>
+
+    <section id="rates" class="card hidden">
+      <h2>Rates (Offline Placeholder)</h2>
+      <div class="grid">
+        <div class="card"><strong>Gold</strong><div id="rateGold"></div></div>
+        <div class="card"><strong>Petrol</strong><div id="ratePetrol"></div></div>
+        <div class="card"><strong>USD</strong><div id="rateUSD"></div></div>
+      </div>
+      <small style="color:#98a2c3">Values are offline placeholders for demo.</small>
+    </section>
+
+    <section id="bot" class="card hidden">
+      <h2>Assistant (Offline)</h2>
+      <p>Type a command (demo):</p>
+      <input id="cmd" placeholder="e.g., set timer 5">
+      <button id="runCmd" onclick="alert('Offline bot demo: command captured')">Run</button>
+    </section>
+  </main>
+
+  <footer>Galaxy Offline Suite • PWA • Installable • Works Offline</footer>
+  <script src="app.js"></script>
+  <script>
+    if('serviceWorker' in navigator){ navigator.serviceWorker.register('./sw.js'); }
+  </script>
+</body>
+</html>
