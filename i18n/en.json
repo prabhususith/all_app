@@ -1,0 +1,18 @@
+{
+  "app_title": "Herbal & Ayurvedic Remedy Guide",
+  "search_placeholder": "Search herb or symptom...",
+  "settings": "Settings",
+  "offline_notice": "Works fully offline. Data updates when internet is available.",
+  "favorites": "Favorites",
+  "language": "Language",
+  "country": "Country",
+  "save": "Save",
+  "home": "Home",
+  "settings_desc": "Choose your language and country. All text updates instantly and works offline.",
+  "add_favorite": "Add to favorites",
+  "remove_favorite": "Remove favorite",
+  "uses": "Uses",
+  "benefits": "Benefits",
+  "prep": "Preparation",
+  "precautions": "Precautions"
+}

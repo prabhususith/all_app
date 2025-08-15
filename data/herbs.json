@@ -1,0 +1,132 @@
+{
+  "herbs": [
+    {
+      "id": "tulsi",
+      "name": {
+        "en": "Tulsi (Holy Basil)",
+        "ta": "துளசி"
+      },
+      "aliases": [
+        "ocimum sanctum",
+        "holy basil"
+      ],
+      "benefits": {
+        "en": "Adaptogenic herb; supports immunity; respiratory relief.",
+        "ta": "உடல் எதிர்ப்புச் சக்தியை மேம்படுத்தும்; சளி/இருமலுக்கு உதவும்."
+      },
+      "uses": {
+        "en": "Cough, cold, stress relief.",
+        "ta": "இருமல், ஜலதோஷம், மனஅழுத்த நிவாரணம்."
+      },
+      "preparation": {
+        "en": "Boil 5–7 fresh leaves in 200 ml water for 5–7 minutes; add honey.",
+        "ta": "5–7 இலைகளை 200 மில்லி நீரில் 5–7 நிமிடங்கள் காய்ச்சி தேன் சேர்க்கவும்."
+      },
+      "precautions": {
+        "en": "Consult a physician if pregnant or on medication.",
+        "ta": "கர்ப்பிணி அல்லது மருந்து எடுத்தால் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "cough",
+        "cold",
+        "stress"
+      ]
+    },
+    {
+      "id": "turmeric",
+      "name": {
+        "en": "Turmeric (Curcumin)",
+        "ta": "மஞ்சள்"
+      },
+      "aliases": [
+        "curcuma longa",
+        "curcumin"
+      ],
+      "benefits": {
+        "en": "Anti-inflammatory; antioxidant; supports skin and joints.",
+        "ta": "அரிப்பு குறைப்பு; அந்தி-ஆக்ஸிடென்ட்; தோல்/முழங்கு நலம்."
+      },
+      "uses": {
+        "en": "Skin issues, joint pain, digestion.",
+        "ta": "தோல் பிரச்சினைகள், மூட்டு வலி, செரிமானம்."
+      },
+      "preparation": {
+        "en": "Mix 1/2 tsp turmeric in warm milk; drink nightly.",
+        "ta": "அரை தேக்கரண்டி மஞ்சளை சூடான பாலில் கலந்து இரவு குடிக்கவும்."
+      },
+      "precautions": {
+        "en": "May interact with blood thinners; avoid excess.",
+        "ta": "இரத்தம் பதப்படுத்தும் மருந்துகளுடன் தொடர்பு இருக்கலாம்; மிகாமல் தவிர்க்கவும்."
+      },
+      "symptoms": [
+        "inflammation",
+        "skin",
+        "joint pain",
+        "digestion"
+      ]
+    },
+    {
+      "id": "ashwagandha",
+      "name": {
+        "en": "Ashwagandha",
+        "ta": "அஸ்வகந்தா"
+      },
+      "aliases": [
+        "withania somnifera",
+        "indian ginseng"
+      ],
+      "benefits": {
+        "en": "Stress reduction, sleep support, vitality.",
+        "ta": "மனஅழுத்தம் குறைப்பு, நன்றாக உறக்கம், உற்சாகம்."
+      },
+      "uses": {
+        "en": "Stress, fatigue, sleep issues.",
+        "ta": "மனஅழுத்தம், சோர்வு, உறக்கக் குறைபாடு."
+      },
+      "preparation": {
+        "en": "As powder (churna) 250–500 mg with warm milk.",
+        "ta": "சூர்ணமாக 250–500 மி.கி. சூடான பாலுடன்."
+      },
+      "precautions": {
+        "en": "Avoid during pregnancy; consult physician for conditions.",
+        "ta": "கர்ப்பிணி நிலையில் தவிர்க்கவும்; உடல்நிலையில் மருத்துவரை அணுகவும்."
+      },
+      "symptoms": [
+        "stress",
+        "fatigue",
+        "sleep"
+      ]
+    },
+    {
+      "id": "neem",
+      "name": {
+        "en": "Neem",
+        "ta": "வெம்பு"
+      },
+      "aliases": [
+        "azadirachta indica"
+      ],
+      "benefits": {
+        "en": "Antibacterial; supports skin and oral health.",
+        "ta": "பாக்டீரியா எதிர்ப்பு; தோல் மற்றும் பல் ஆரோக்கியம்."
+      },
+      "uses": {
+        "en": "Acne, dandruff, oral hygiene.",
+        "ta": "முகப் புண்கள், பொடுகு, வாய்ச் சுகாதாரம்."
+      },
+      "preparation": {
+        "en": "Boil leaves for rinse; use paste topically.",
+        "ta": "இலைகளை காய்ச்சி குளிக்க/கழுவ; விழுதை மேல்மட்டமாக பயன்படுத்தவும்."
+      },
+      "precautions": {
+        "en": "Avoid internal use in high doses; consult physician.",
+        "ta": "அதிக அளவில் உட்கொள்ள வேண்டாம்; மருத்துவர் அறிவுரை பெறவும்."
+      },
+      "symptoms": [
+        "acne",
+        "dandruff",
+        "oral"
+      ]
+    }
+  ]
+}
